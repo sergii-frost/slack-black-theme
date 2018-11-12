@@ -15,6 +15,9 @@ Find your Slack's application directory.
 * Linux: `/usr/lib/slack/` (Debian-based)
 
 
+* [Alternative](https://github.com/laCour/slack-night-mode/issues/73#issuecomment-287467332)
+
+
 Open up the most recent version (e.g. `app-2.5.1`) then open
 `resources\app.asar.unpacked\src\static\index.js`
 
